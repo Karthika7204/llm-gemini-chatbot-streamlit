@@ -13,9 +13,11 @@ The chatbot accepts user queries, sends them to the Gemini API, and displays AI-
 
 ## Project Design 
 
-#### Project Chat UI design
+#### Project Chat UI Page
 ![Gemini Chatbot Interface](https://raw.githubusercontent.com/Karthika7204/llm-gemini-chatbot-streamlit/master/Assesst/gemini_chat_ui.png)
 
+#### Project Chat Response Page
+![Gemini Chatbot Interface](https://raw.githubusercontent.com/Karthika7204/llm-gemini-chatbot-streamlit/master/Assesst/gemini_chat_response.png)
 ---
 
 ## 🧠 Key Features
