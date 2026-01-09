@@ -45,4 +45,5 @@ llm-gemini-chatbot-streamlit/
 ├── streamlit/           # Streamlit config files
 └── assets/              # Screenshots & images (add this folder)
 
-![Gemini Chatbot Interface](https://raw.githubusercontent.com/Karthika7204/llm-gemini-chatbot-streamlit/refs/heads/master/Assesst/gemini_chat_ui.png)
+![Gemini Chatbot Interface](https://raw.githubusercontent.com/Karthika7204/llm-gemini-chatbot-streamlit/master/Assesst/gemini_chat_ui.png)
+
